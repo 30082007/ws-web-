@@ -1,0 +1,21 @@
+p{
+    background-color: #d3d3d3;
+    font-size: 32px;
+    }
+    
+    p{
+    background-color: deepskyblue;
+    width: 50%;
+    font-size:  2em;
+    }
+    
+    p{
+    background-color: aquamarine;
+    width: 50%;
+    font: 3em;
+    }
+    p{
+        background-color: lightblue;
+        width: 50%;
+        font-size: 2em;
+    }
